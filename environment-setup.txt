@@ -1,0 +1,3 @@
+pip install --upgrade setuptools
+sudo -H pip install -U pip
+install pyopenssl ndg-httpsclient pyasn1
